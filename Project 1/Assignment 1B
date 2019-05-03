@@ -1,3 +1,9 @@
+Question 1:What are Channels and Kernels (according to EVA)?
+Solution 1:
+
+Question 2: Why should we only (well mostly) use 3x3 Kernels?
+Solution 2:
+
 Question 3: How many times do we need to perform 3x3 convolution operation to reach 1x1 from 199x199 (show calculations)?
 Solution:
 Every time there is a convolution with 3x3 matrix the size of the input matrix reduces by 2 i.e. here after first 

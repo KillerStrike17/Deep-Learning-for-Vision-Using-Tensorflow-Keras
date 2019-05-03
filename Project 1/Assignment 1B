@@ -3,15 +3,15 @@ Solution:
 Every time there is a convolution with 3x3 matrix the size of the input matrix reduces by 2 i.e. here after first 
 convolution operation the matrix will be 197x197. And then after one more operation it will reduce to 195x 195.
 we here can see a pattern i.e. the series is in arithematic progression with a common difference 2,
-the first element is 197 and the last is 1.So we can calculate the total number of layers needed using the
-formulae an = a +(n-1)xd. Where an is 1, a is 197, d is -2 as the series is in decreasing order and we 
+the first element is 199 and the last is 1.So we can calculate the total number of layers needed using the
+formulae an = a +(n-1)xd. Where an is 1, a is 199, d is -2 as the series is in decreasing order and we 
 need to find n, so we place the values.
-1 = 197 + (n-1)x-2
--196 = (n-1)x-2 //Negative cancels out
-196/2 = n-1
-98 = n-1
-n = 99
-so total 99 times we need to perform this operation, so lets verify it manually
+1 = 199 + (n-1)x-2
+-198 = (n-1)x-2 //Negative cancels out
+198/2 = n-1
+99 = n-1
+n = 100
+so total 100 times we need to perform this operation, so lets verify it manually
 199x199 -> 197x197 -> 195x195 -> 193x193 -> 191x191 -> 189x189 -> 187x187 -> 185x185 -> 183x183 -> 181x181 ->
 179x179 -> 177x177 -> 175x175 -> 173x173 -> 171x171 -> 169x169 -> 167x167 -> 165x165 -> 163x163 -> 161x161 ->
 159x159 -> 157x157 -> 155x155 -> 153x153 -> 151x151 -> 149x149 -> 147x147 -> 145x145 -> 143x143 -> 141x141 ->
@@ -23,3 +23,6 @@ so total 99 times we need to perform this operation, so lets verify it manually
 39x39 -> 37x37 -> 35x35 -> 33x33 -> 31x31 -> 29x29 -> 27x27 -> 25x25 -> 23x23 -> 21x21 ->
 19x19 -> 17x17 -> 15x15 -> 13x13 -> 11x11 -> 9x9 -> 7x7 -> 5x5 -> 3x3 -> 1x1 
 
+
+Thus on calculating we get the same, therefore 100 times we need to multiply the 3x3 convolution operation to 
+reach 1x1 from 199x199

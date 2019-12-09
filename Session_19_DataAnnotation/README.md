@@ -12,6 +12,49 @@ kmeans_with_location.py is used to find the potencial anchor boxes.
 
 Here, I have calculated k means wth and and without including initial location.
 
+### Annotation Screenshots:
+
+**Up**
+
+![Up Annotated Image](Assets/up.png)
+
+**Down**
+
+![Down Annotated Image](Assets/down.png)
+
+**Left**
+
+![Left Annotated Image](Assets/left.png)
+
+**Right**
+
+![Right Annotated Image](Assets/right.png)
+
+**Top**
+
+![Top Annotated Image](Assets/top.png)
+
+**Back**
+
+![Back Annotated Image](Assets/back.png)
+
+**UpRight**
+
+![UpRight Annotated Image](Assets/upright.png)
+
+**UpLeft**
+
+![UpLeft Annotated Image](Assets/upleft.png)
+
+**DownRight**
+
+![DownRight Annotated Image](Assets/downright.png)
+
+**DownLeft**
+
+![DownLeft Annotated Image](Assets/downleft.png)
+
+### KMeans Results
 
 ![Kmeans Without Initial Location](Assets/kmeans.png)
 
@@ -22,3 +65,4 @@ Here the four potencial bounding boxes are decided based just over the size of t
 Here the four potencial bounding boxes are decided based over the size of the box and location of the boxes.
 
 [Link to Dataset](https://drive.google.com/drive/folders/1IXQHnZ2I55tlWahcsfY4gIIoJtUcXN3t)
+

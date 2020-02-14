@@ -4,9 +4,12 @@ Transfer Learning is a type of learning where learning a new task relies on prev
 
 ![Tranfer-learning](Assets/Transfer-Learning.png)
 
-I worked over Resnet 18 Model trained over Imagenet Dataset. I loaded the model and retrained the last few layers of it. 
+I worked over a pretrained YOLO Model and trained it over my dataset to detect football in real time. 
 
 ## Results
 
-Training the Whole Model
+### Pretrained Model result
 
+### New Model Results
+
+### 

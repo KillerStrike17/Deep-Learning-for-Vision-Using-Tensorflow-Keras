@@ -25,5 +25,6 @@ New Model Result
 ![Output](Assets/output.gif)
 
 
-[![IMAGE ALT TEXT HERE](Assets/YOLO Thumbnail.jpg)](https://youtu.be/DY5EdGvKP2Q)
+[![Youtube Link](https://img.youtube.com/vi/DY5EdGvKP2Q/0.jpg)](https://www.youtube.com/watch?v=DY5EdGvKP2Q)
 
+Click the above image for the video link

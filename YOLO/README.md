@@ -10,6 +10,20 @@ I worked over a pretrained YOLO Model and trained it over my dataset to detect f
 
 ### Pretrained Model result
 
+Importing pretrained Model
+
+![Pretrained_Model_result](Assets/Pretrained_Model_Result.png)
+
 ### New Model Results
 
-### 
+New Model Result
+
+![New Model Result](Assets/New_Model_Result.png)
+
+### Other Results
+
+
+
+[Link to my Youtube](https://youtu.be/DY5EdGvKP2Q)
+
+

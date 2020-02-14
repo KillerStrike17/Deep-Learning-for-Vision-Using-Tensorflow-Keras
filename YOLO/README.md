@@ -24,6 +24,7 @@ New Model Result
 
 ![Output](Assets/output.gif)
 
+![Output](Assets/output2.gif)
 
 [![Youtube Link](https://img.youtube.com/vi/DY5EdGvKP2Q/0.jpg)](https://www.youtube.com/watch?v=DY5EdGvKP2Q)
 

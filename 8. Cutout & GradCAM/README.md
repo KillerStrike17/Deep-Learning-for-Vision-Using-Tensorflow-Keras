@@ -2,12 +2,12 @@
 
 Cutout is an Image Augmentation Technique in which some portion of the image is replaced with the mean of all values and the network is forced to look to other features to classify object
 
-![images without cutout](https://github.com/KillerStrike17/EVA---Session-9-Cutouts-GradCAM/blob/master/without_cutout.png)
+![images without cutout](Assets/without_cutout.png)
 
 This image shows the dataset without any augmentation stratergy applied.
 
 
-![images with cutout](https://github.com/KillerStrike17/EVA---Session-9-Cutouts-GradCAM/blob/master/cutout.png)
+![images with cutout](Assets/cutout.png)
 
 The above figure represents cutout being added to the dataset. Hence as the cutout percentage is 50%, therefore not all images have some portion missing. 
 
@@ -17,6 +17,6 @@ When the model is trained over dataset having no cutout and having cutouts, it i
 
 #### Accuracy Acheived With Cutout: 87.44%
 
-![output](https://github.com/KillerStrike17/EVA---Session-9-Cutouts-GradCAM/blob/master/output.png)
+![output](Assets/output.png)
 
 This image shows the difference of using cutouts, we can see that when used gradcam(basically a heatmap over features which are firing for that class), the images with cutout form over the object where as images without cutout predict classes with backgrround pixels also as an input. 

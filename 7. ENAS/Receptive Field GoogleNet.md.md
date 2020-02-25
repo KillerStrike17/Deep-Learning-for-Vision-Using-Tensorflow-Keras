@@ -1,9 +1,9 @@
-# Assignment 7A
+# GoogleNet
 Calculating receptive field of Google Net
 
 ### GoogleNet
 
-![alt text](https://github.com/KillerStrike17/EVA---Session-7-ENAS/blob/master/GoogleNet.jpeg)
+![Google Net Architecture](Assets/GoogleNet.jpeg)
 
 Input Size  = 224x224x3
 

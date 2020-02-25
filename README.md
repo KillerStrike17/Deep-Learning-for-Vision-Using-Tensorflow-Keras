@@ -2,7 +2,7 @@
 
 This repository is about applied Deep Learning concepts in the domain of vision from the basics. 
 
-### [Understanding the Kernels](/1. Kernels)
+### [Understanding the Kernels](/1.%20Kernels)
 
 This will give a brief idea on what is a kernel, what is its job and how to write custom kernels. 
 

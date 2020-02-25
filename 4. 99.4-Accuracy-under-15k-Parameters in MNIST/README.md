@@ -1,4 +1,4 @@
-# EVA---Session4-99.4%-Accuracy-under-15k-Parameters-
+# 99.4%-Accuracy-under-15k-Parameters
 This repository consists of 4 codes,each has 3 changes in it from the previous one resulting in better accuracy
 ## First Iteration
 It is a basic Neural Network with 32 btach size and 10 epochs

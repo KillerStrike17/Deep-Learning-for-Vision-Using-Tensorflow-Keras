@@ -11,4 +11,4 @@ Here the there was no Target Accuracy, Hence just trained the model for 5 epochs
 
 Some of the misclassified Images are:- 
 
-![Misclassified Images](misclassified_images.PNG)
+![Misclassified Images](Assets/misclassified_images.PNG)

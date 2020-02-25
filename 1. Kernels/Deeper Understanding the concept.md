@@ -1,4 +1,4 @@
-### Question 1:What are Channels and Kernels (according to EVA)?
+### Question 1:What are Channels and Kernels?
 ### Solution 1: 
 ## Kernels 
 kernels are basically filters which are used to obtain desired output. Generally used are of size 3x3,

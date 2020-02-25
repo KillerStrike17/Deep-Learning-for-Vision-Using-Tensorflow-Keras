@@ -1,4 +1,4 @@
-# Project 1
+# Different Kernels Used
 Here we have developed kernels for:
 
 * Vertical Edge Detection

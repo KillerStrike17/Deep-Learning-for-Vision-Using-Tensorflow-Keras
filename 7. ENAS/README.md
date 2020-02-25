@@ -1,6 +1,4 @@
-# EVA---Session-7-ENAS
-
-## Results of Both the questions
+# ENAS & GoogleNet
 
 ### [Receptive Field Calculation of Google Net](/Receptive%20Field%20GoogleNet.md)
 

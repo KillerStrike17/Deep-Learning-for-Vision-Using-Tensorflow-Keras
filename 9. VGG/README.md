@@ -1,4 +1,4 @@
-# EVA---Session-10-VGG
+# VGG Network
 This repository consists of interpreting the outputs VGG model with GRADcam
 
 GradCam Output for Layer:- Original, block5_conv3, block5_conv2 and block5_conv1

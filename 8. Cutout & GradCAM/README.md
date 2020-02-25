@@ -1,4 +1,4 @@
-# EVA---Session-9-Cutouts-GradCAM
+# Cutouts with GradCAM
 
 Cutout is an Image Augmentation Technique in which some portion of the image is replaced with the mean of all values and the network is forced to look to other features to classify object
 

@@ -1,7 +1,5 @@
 # DenseNets
 
-[Link to Colab](https://colab.research.google.com/drive/1lzwsl2s3W0L2nBiAt-JFtJP0Iub1iOLL)
-
 Using the created [API](https://github.com/prateekgulati/rgApi), i am converting the data to TFRecords and feeding to DenseNet. 
 
 I have also implemented OneCycle LR policy to cross the target Accuracy of 80%.

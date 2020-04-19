@@ -26,6 +26,6 @@ New Model Result
 
 ![Output](Assets/output2.gif)
 
-[![Youtube Link](https://img.youtube.com/vi/DY5EdGvKP2Q/0.jpg)](https://www.youtube.com/watch?v=DY5EdGvKP2Q)
+[![Youtube Link](https://img.youtube.com/vi/gV4C0P4Anew/0.jpg)](https://www.youtube.com/watch?v=gV4C0P4Anew)
 
 Click the above image for the video link
